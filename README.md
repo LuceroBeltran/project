@@ -7,7 +7,7 @@
 # This is fine
 ![Banner](docs/This-Is-Fine-1.png)
 
-Install server dependencies before create virtual environment.
+Install server dependencies. Before create a virtual environment.
 ```bash
 cd server
 cp .env.example .env # create a dotenv file 
